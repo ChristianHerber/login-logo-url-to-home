@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Login logo URL to home
-* Plugin URI: christian.herber.com/chrisplugin
+* Plugin URI: https://github.com/ChristianHerber/login-logo-url-to-home
 * Description: Redirect the logo link in page login to your home page
 * Version: 1.0.0
 * Author: Christian Herber dos Santos
