@@ -1,4 +1,4 @@
-# login-logo-url-to-home
+# Login logo URL to home
 A simple wordpress plugin to change the link logo login to home page.
 
 #Install
